@@ -1,5 +1,5 @@
 """
-phase5_gotcha_labs - Float Gotchas
+phase3_lists - Hungry Block
 
 TODO: lesson description and instructions.
 """
@@ -8,7 +8,7 @@ import pygame
 pygame.init()
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Float Gotchas")
+pygame.display.set_caption("Hungry Block")
 clock = pygame.time.Clock()
 
 running = True

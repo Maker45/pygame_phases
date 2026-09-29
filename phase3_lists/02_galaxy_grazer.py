@@ -1,5 +1,5 @@
 """
-phase3_lists - Enemy Wave
+phase3_lists - Galaxy Grazer
 
 TODO: lesson description and instructions.
 """
@@ -8,7 +8,7 @@ import pygame
 pygame.init()
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Enemy Wave")
+pygame.display.set_caption("Galaxy Grazer")
 clock = pygame.time.Clock()
 
 running = True
