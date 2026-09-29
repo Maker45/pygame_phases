@@ -10,6 +10,8 @@
 
 ### Lesson 3.1: "Scaling Up"
 
+📊 **Slides:** [Phase 3, Lesson 3.1](https://docs.google.com/presentation/d/1R1tRSVSktlp3VtBVj2guDS8Dp_2Xb8FrXTC8T7mGU7c/view)
+
 **Goal:** Create 50 stars scattered randomly across the screen using a list and a loop.
 
 **PCEP Concepts:** Lists, `append()`, `range()`, `for` loops (iteration), Indexing
@@ -26,6 +28,8 @@
 ## 02_galaxy_grazer.py
 
 ### Lesson 3.1 Lab Challenge: "Galaxy Grazer"
+
+📊 **Slides:** [Phase 3, Lesson 3.1](https://docs.google.com/presentation/d/1R1tRSVSktlp3VtBVj2guDS8Dp_2Xb8FrXTC8T7mGU7c/view)
 - Create a list called `raindrops`.
 - Use a loop to add **100** small blue Rects at random positions.
 - Draw them all in the game loop.
@@ -37,6 +41,8 @@
 ## 03_hungry_block.py
 
 ### Lesson 3.2: Processing Lists — "The Assembly Line"
+
+📊 **Slides:** [Phase 3, Lesson 3.2](https://docs.google.com/presentation/d/14Gj1VsuHtYncE42j12zVO7QVtvSxYMF1UzXN_2pwNps/view)
 
 **Goal:** Loop through the list of stars to draw them, check for collisions, and safely remove them when "collected."
 
@@ -66,6 +72,8 @@
 ## 04_stat_tracker.py
 
 ### Lesson 3.3: High Scores (Dictionaries)
+
+📊 **Slides:** [Phase 3, Lesson 3.3](https://docs.google.com/presentation/d/1zaXBdVON0CPMEa6ez_JQkAAA5vxSkRoxI_cvdVoAbR4/view)
 
 **Goal:** Store complex data, like game settings and player stats.
 

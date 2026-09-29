@@ -2,6 +2,8 @@
 
 Pygame lessons organized in five phases.
 
+📊 **Slides:** [File Management: Pygame Phases](https://docs.google.com/presentation/d/1NWoVOSkbLrdqzcc2O6VAjUIfl8c8bPD4AcnOjmQHHx4/view)
+
 **Students:** see [STUDENTS.md](STUDENTS.md) for how to download the files and get updates.
 
 ```

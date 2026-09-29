@@ -2,6 +2,8 @@
 
 **Lesson 5.1: PCEP Syntax & "Dry" Topics**
 
+📊 **Slides:** [Lesson 5.1: PCEP Syntax & "Dry" Topics](https://docs.google.com/presentation/d/1ab046MO382rJJ_w2uZO3MBL2EhN9v_OM8icgNSkECCk/view)
+
 Pygame is great for logic (loops, lists, if-statements), but the PCEP exam also tests things games rarely use. These labs cover the "gotchas" — the trick questions the exam uses to see if you truly understand how Python reads code.
 
 **No Pygame in this phase.** Every file is a plain Python script that prints to the VS Code terminal. Do **not** `import pygame`.

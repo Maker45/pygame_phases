@@ -10,6 +10,8 @@
 
 ### Lesson 2.1: The Keyboard Dodger — "Taking Control"
 
+📊 **Slides:** [Phase 2, Lesson 2.1](https://docs.google.com/presentation/d/1M_vGXort4ILt63RAzviV89gAUEBQA4g8BKhEnMXBLog/view)
+
 **Goal:** Move the player square using the arrow keys and keep it inside the window.
 
 **Two ways to listen to the keyboard**
@@ -37,6 +39,8 @@
 ## 02_survival_mode.py
 
 ### Lesson 2.2: Collision Detection — "Contact!"
+
+📊 **Slides:** [Phase 2, Lesson 2.2](https://docs.google.com/presentation/d/1WF12RloMK3L6CGBgd5oLbh1hvKwcb_PIvuV-NC8BgC8/view)
 
 **Goal:** Detect when the player touches an enemy and trigger a "Game Over" state.
 

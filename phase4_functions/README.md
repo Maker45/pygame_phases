@@ -6,6 +6,8 @@
 
 ### Lesson 4.1: The Function Refactor — "Cleaning Up the Workshop"
 
+📊 **Slides:** [Phase 4, Lesson 4.1](https://docs.google.com/presentation/d/14h9d1M5LDtlkymlX2ojA1fXV0jmm3EBe2WEJ73vmntc/view)
+
 **Goal:** Take the massive `while` loop and break it into neat, reusable mini-programs (functions).
 
 **PCEP Concepts:** `def`, calling functions, Parameters vs. Arguments, `return`, `None`, and Variable Scope (Local vs. Global)
@@ -36,6 +38,8 @@
 ## 02_asset_manager.py
 
 ### Lesson 4.2: Loading Assets Safely (Exceptions)
+
+📊 **Slides:** [Phase 4, Lesson 4.2](https://docs.google.com/presentation/d/1eRg1sUjWHSDSiLbZvV1c8CW4EEQxO8iUahIuEQLX_ys/view)
 
 **Goal:** Use real pictures instead of colored squares without crashing the game.
 

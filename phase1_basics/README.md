@@ -10,6 +10,8 @@
 
 ### Part 1 – Lesson 1.1: Hello VS Code & The Infinite Loop
 
+📊 **Slides:** [Phase 1.1: The Engine](https://docs.google.com/presentation/d/18MKw0KJQcVK5UXV7hBy-3iUhYnlsJiYn0pbofUQyZVc/view)
+
 **Goal:** Create a black window that stays open until the user closes it.
 
 **PCEP Concepts:** Modules (`import`), Tuples, Variables, Boolean Logic, `while` loops
@@ -34,6 +36,8 @@
 
 ### Part 2 – Lesson 1.2: Making Things Move
 
+📊 **Slides:** [Phase 1.2: The Bouncing Square](https://docs.google.com/presentation/d/1TGDGzIbr5E4XhLqqzaMsrnI4H24bMm6rMqftu3jIJu4/view)
+
 **Goal:** Draw a square and make it move across the screen.
 
 **PCEP Concepts:** Variables, Integer Arithmetic (`+`, `-`, `*`), Assignment Operators (`=`, `+=`), Coordinate Systems
@@ -51,6 +55,8 @@
 ## 02_dvd_screensaver.py
 
 ### Lesson 1.2 Lab Challenge: "The DVD Screensaver"
+
+📊 **Slides:** [Phase 1.2: The Bouncing Square](https://docs.google.com/presentation/d/1TGDGzIbr5E4XhLqqzaMsrnI4H24bMm6rMqftu3jIJu4/view)
 
 **The Bounce:** If the square goes too far, reverse it. To reverse direction, multiply the speed by `-1` (or set it to a negative number).
 
