@@ -2,6 +2,8 @@
 
 Pygame lessons organized in five phases.
 
+**Students:** see [STUDENTS.md](STUDENTS.md) for how to download the files and get updates.
+
 ```
 pygame_phases/
   phase1_basics/       01_moving_square.py, 02_dvd_screensaver.py
